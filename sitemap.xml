@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://Guerre450.github.io/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Guerre450.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://Guerre450.github.io/fr/"/>
+    </url>
+    <url>
+        <loc>https://Guerre450.github.io/showcase/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Guerre450.github.io/showcase/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://Guerre450.github.io/fr/showcase/"/>
+    </url>
+    <url>
+        <loc>https://Guerre450.github.io/whoami/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Guerre450.github.io/whoami/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://Guerre450.github.io/fr/whoami/"/>
+    </url>
+    <url>
+        <loc>https://Guerre450.github.io/fr/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://Guerre450.github.io/fr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Guerre450.github.io/"/>
+    </url>
+    <url>
+        <loc>https://Guerre450.github.io/fr/showcase/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://Guerre450.github.io/fr/showcase/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Guerre450.github.io/showcase/"/>
+    </url>
+    <url>
+        <loc>https://Guerre450.github.io/fr/whoami/</loc>
+        <lastmod>2026-09-03</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://Guerre450.github.io/fr/whoami/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Guerre450.github.io/whoami/"/>
+    </url>
+</urlset>
