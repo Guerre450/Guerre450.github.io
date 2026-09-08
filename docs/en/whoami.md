@@ -18,7 +18,6 @@ I know the importance of a team's mood and motivation to a product's development
 
 
 ## Strengths 
-These are the traits which
 - Researching and planning
 - Adapting to new technologies
 - Creative

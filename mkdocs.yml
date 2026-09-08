@@ -1,7 +1,12 @@
 site_name: Cedric Champoux
 site_url: https://Guerre450.github.io/
 theme:
-  name: material
+  name: simple-blog
+  sidebar : true
+  navigation_depth : 3
+  components:
+    title: false
+    footer : false
 plugins:
   - i18n:
       docs_structure: folder
@@ -15,3 +20,4 @@ plugins:
           build: true
   - search:
       enabled: true
+  - simple-blog-posts:
